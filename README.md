@@ -22,6 +22,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhichall/LeetcodeTracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhichall/LeetcodeTracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0567-permutation-in-string) |
@@ -36,6 +37,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0015-3sum](https://github.com/abhichall/LeetcodeTracker/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhichall/LeetcodeTracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhichall/LeetcodeTracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/abhichall/LeetcodeTracker/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
@@ -101,4 +103,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/abhichall/LeetcodeTracker/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
