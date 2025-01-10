@@ -8,6 +8,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhichall/LeetcodeTracker/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/abhichall/LeetcodeTracker/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/abhichall/LeetcodeTracker/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/abhichall/LeetcodeTracker/tree/master/0283-move-zeroes) |
@@ -53,6 +54,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0001-two-sum](https://github.com/abhichall/LeetcodeTracker/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhichall/LeetcodeTracker/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/abhichall/LeetcodeTracker/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/abhichall/LeetcodeTracker/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abhichall/LeetcodeTracker/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhichall/LeetcodeTracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
