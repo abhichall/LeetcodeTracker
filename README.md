@@ -65,6 +65,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0605-can-place-flowers](https://github.com/abhichall/LeetcodeTracker/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/abhichall/LeetcodeTracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
+| [2058-concatenation-of-array](https://github.com/abhichall/LeetcodeTracker/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,4 +145,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/abhichall/LeetcodeTracker/tree/master/0605-can-place-flowers) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/abhichall/LeetcodeTracker/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
