@@ -95,6 +95,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhichall/LeetcodeTracker/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
