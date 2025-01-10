@@ -58,6 +58,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0217-contains-duplicate](https://github.com/abhichall/LeetcodeTracker/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/abhichall/LeetcodeTracker/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/abhichall/LeetcodeTracker/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/abhichall/LeetcodeTracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
 ## Dynamic Programming
@@ -137,4 +138,5 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/abhichall/LeetcodeTracker/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
