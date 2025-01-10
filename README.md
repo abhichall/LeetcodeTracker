@@ -17,6 +17,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0344-reverse-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0567-permutation-in-string) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0567-permutation-in-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/abhichall/LeetcodeTracker/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhichall/LeetcodeTracker/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1319-unique-number-of-occurrences](https://github.com/abhichall/LeetcodeTracker/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhichall/LeetcodeTracker/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1603-running-sum-of-1d-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/abhichall/LeetcodeTracker/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/abhichall/LeetcodeTracker/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
@@ -102,6 +105,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0242-valid-anagram](https://github.com/abhichall/LeetcodeTracker/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
