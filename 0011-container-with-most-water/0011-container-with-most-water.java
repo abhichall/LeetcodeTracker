@@ -1,35 +1,26 @@
 class Solution {
     public int maxArea(int[] height) {
 
-        int maxVolume = 0;
-        int h = 0;
-        int width = 0;
-
-        int currTotal = 0;
-
-        int i = 0;
+        int maxVol = 0;
+        int curr = 0;
+        int j = 0;
         int k = height.length - 1;
 
+        while (j < k) {
+            
+            int h = Math.min(height[j], height[k]);
+            int width = k - j;
 
-            while ( k > i) {
-                width = k - i;
-                h = Math.min(height[i], height[k]);
+            curr = width * h;
 
-                currTotal = h * width;
+            maxVol = Math.max(curr, maxVol);
 
-                maxVolume = Math.max(maxVolume, currTotal);
-
-                if (height[i] > height[k]) {
-                    k--;
-                } else {
-                    i++;
-                }
-
+            if (height[j] >= height[k]) {
+                k--;
+            } else if (height[j] < height[k]) {
+                j++;
+            }
         }
-
-
-
-        return maxVolume;
-        
+           return maxVol;
     }
 }
