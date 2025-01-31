@@ -1,24 +1,37 @@
 class Solution {
+
     public int[] productExceptSelf(int[] nums) {
 
-        //create an int array for answer
-        int[] answer = new int[nums.length];
-
-        //for loops to iterate through the array
+        int n = nums.length;
         
-            //for left multiples, start with left = 1 because the left of the left most should be 1
-            for(int i = 0, left = 1; i < nums.length; i++) {
-                answer[i] = left;
-                left = left * nums[i];
-            }
-            //after this loop above, all the values in the answer array are now the product of all the left values of each index
+        int[] left = new int[n];
 
-            //now same thing for the right
-            for(int i = nums.length - 1, right = 1; i >= 0; i--) {
-                
-                answer[i] = right * answer[i];
-                right = right * nums[i];
-            }
-        return answer;
+        int[] right = new int[n];
+
+        int[] res = new int[n];
+
+
+        left[0] = 1;
+        right[n-1] = 1;
+
+        //left
+        for (int i = 1; i < nums.length; i++) {
+            left[i] = left[i-1] * nums[i-1];
+        }
+
+        //right
+        for (int j = n-2; j >= 0; j--) {
+            right[j] = right[j+1] * nums[j+1];
+        }
+
+
+        //result
+        for (int k = 0; k < n; k++) {
+            res[k] = left[k] * right[k];
+        }
+
+return res;
+
+
     }
 }
