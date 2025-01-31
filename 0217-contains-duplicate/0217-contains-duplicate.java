@@ -1,19 +1,18 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
 
-        //make a hashset
+        int n = nums.length;
+
         Set<Integer> hset = new HashSet<>();
 
-        //add all values in the nums array to hset
-        for (int n : nums) {
-            hset.add(n);
+        for (int num : nums) {
+            hset.add(num);
         }
         
-        //if the sizes are equals that means there are no duplicates
-        if (hset.size() == nums.length) {
+        if (hset.size() == n) {
             return false;
         } else {
-            return true; 
+            return true;
         }
 
     }
