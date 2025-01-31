@@ -9,11 +9,11 @@ class Solution {
 
         int maxSeq = 0;
 
-        for(int i = 0; i < nums.length; i++) {
+        for(int n : hset) {
 
             int counter = 1;
 
-            int val = nums[i];
+            int val = n;
 
             if (hset.contains(val - 1)) continue;
 
