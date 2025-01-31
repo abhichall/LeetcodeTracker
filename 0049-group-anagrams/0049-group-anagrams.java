@@ -1,6 +1,6 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-
+        
         Map<String, List<String>> hmap = new HashMap<>();
 
         for (String s : strs) {
@@ -9,18 +9,16 @@ class Solution {
 
             Arrays.sort(arr);
 
-            String key = new String(arr);
+            String upd = new String(arr);
 
-            if (hmap.containsKey(key)) {
-                hmap.get(key).add(s);
+            if(hmap.containsKey(upd)) {
+                hmap.get(upd).add(s);
             } else {
-                hmap.put(key, new ArrayList<>());
-                hmap.get(key).add(s);
+                hmap.put(upd, new ArrayList<>());
+                hmap.get(upd).add(s);
             }
-
         }
 
         return new ArrayList<>(hmap.values());
-        
     }
 }
