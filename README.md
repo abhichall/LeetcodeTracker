@@ -52,6 +52,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0242-valid-anagram](https://github.com/abhichall/LeetcodeTracker/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhichall/LeetcodeTracker/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/abhichall/LeetcodeTracker/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhichall/LeetcodeTracker/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -82,6 +83,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0238-product-of-array-except-self](https://github.com/abhichall/LeetcodeTracker/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/abhichall/LeetcodeTracker/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/abhichall/LeetcodeTracker/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/abhichall/LeetcodeTracker/tree/master/0739-daily-temperatures) |
@@ -143,6 +145,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0020-valid-parentheses](https://github.com/abhichall/LeetcodeTracker/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhichall/LeetcodeTracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhichall/LeetcodeTracker/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhichall/LeetcodeTracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
 ## Design
@@ -156,6 +159,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhichall/LeetcodeTracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
 ## Prefix Sum
