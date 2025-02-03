@@ -192,9 +192,11 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
