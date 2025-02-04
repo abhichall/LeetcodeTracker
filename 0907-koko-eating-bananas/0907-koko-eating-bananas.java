@@ -5,24 +5,25 @@ class Solution {
         int right = Integer.MIN_VALUE;
         
         // Find the maximum number of bananas in a pile
+        //because koko can either at 1 per hour or a WHOLE pile per hour
         for (int pile : piles) {
             right = Math.max(right, pile);
         }
         
 
         while (left < right) {
-            int mid = (left + right) / 2;
+            int mid = (left + right) / 2; //possible speed of eating
 
-            int hoursNeeded = 0;
+            int hoursNeeded = 0; // 'k'
             
             for (int pile : piles) {
-                hoursNeeded += (pile + mid - 1 ) / mid;
+                hoursNeeded += (int) Math.ceil((double)pile / mid); //this will round up - ceiling functions
             }
             
-            if (hoursNeeded > h) {
-                left = mid + 1;
+            if (hoursNeeded > h) { //theres not enough time - eating too slow
+                left = mid + 1; //to check fast speeds
             } else {
-                right = mid;
+                right = mid; 
             }
         }
         
