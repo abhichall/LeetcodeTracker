@@ -51,6 +51,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0127-word-ladder](https://github.com/abhichall/LeetcodeTracker/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/abhichall/LeetcodeTracker/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/abhichall/LeetcodeTracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhichall/LeetcodeTracker/tree/master/0242-valid-anagram) |
@@ -164,6 +165,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhichall/LeetcodeTracker/tree/master/0155-min-stack) |
 ## Backtracking
 |  |
@@ -212,6 +214,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/abhichall/LeetcodeTracker/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -250,4 +253,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0100-same-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/abhichall/LeetcodeTracker/tree/master/0127-word-ladder) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
