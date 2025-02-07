@@ -54,6 +54,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0049-group-anagrams](https://github.com/abhichall/LeetcodeTracker/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/abhichall/LeetcodeTracker/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/abhichall/LeetcodeTracker/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abhichall/LeetcodeTracker/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0202-happy-number) |
@@ -232,6 +233,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/abhichall/LeetcodeTracker/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/abhichall/LeetcodeTracker/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0206-reverse-linked-list) |
