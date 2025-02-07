@@ -9,6 +9,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0011-container-with-most-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/abhichall/LeetcodeTracker/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abhichall/LeetcodeTracker/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abhichall/LeetcodeTracker/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abhichall/LeetcodeTracker/tree/master/0141-linked-list-cycle) |
@@ -80,6 +81,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0015-3sum](https://github.com/abhichall/LeetcodeTracker/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/abhichall/LeetcodeTracker/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/abhichall/LeetcodeTracker/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhichall/LeetcodeTracker/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/abhichall/LeetcodeTracker/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0074-search-a-2d-matrix) |
@@ -111,6 +113,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhichall/LeetcodeTracker/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhichall/LeetcodeTracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
@@ -159,6 +162,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhichall/LeetcodeTracker/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0145-binary-tree-postorder-traversal) |
@@ -179,6 +183,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhichall/LeetcodeTracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
