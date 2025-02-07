@@ -123,6 +123,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -140,6 +141,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 ## Bucket Sort
@@ -229,6 +231,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/abhichall/LeetcodeTracker/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0206-reverse-linked-list) |
@@ -274,4 +277,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
