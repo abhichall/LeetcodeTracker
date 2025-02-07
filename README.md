@@ -104,6 +104,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0792-binary-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/abhichall/LeetcodeTracker/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/abhichall/LeetcodeTracker/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhichall/LeetcodeTracker/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abhichall/LeetcodeTracker/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -205,6 +206,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhichall/LeetcodeTracker/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
@@ -267,6 +269,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0100-same-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/abhichall/LeetcodeTracker/tree/master/0127-word-ladder) |
+| [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
 ## Doubly-Linked List
 |  |
 | ------- |
