@@ -163,6 +163,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhichall/LeetcodeTracker/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhichall/LeetcodeTracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0202-happy-number) |
@@ -234,6 +235,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhichall/LeetcodeTracker/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/abhichall/LeetcodeTracker/tree/master/0138-copy-list-with-random-pointer) |
@@ -243,6 +245,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/abhichall/LeetcodeTracker/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0206-reverse-linked-list) |
 ## Tree
