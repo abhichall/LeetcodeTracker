@@ -2,23 +2,25 @@ class Solution {
     public int subarraySum(int[] nums, int k) {
 
         Map<Integer, Integer> hmap = new HashMap<>();
-        hmap.put(0, 1); // Default case: prefix sum of 0 appears once
+        hmap.put(0, 1); //this is a default value and will allow for us to compensate for sum = k
 
         int count = 0;
         int prefixSum = 0;
+        int diff = 0;
 
         for (int num : nums) {
-            prefixSum += num; // Update the running sum
-            
-            // Check if (prefixSum - k) exists in map
-            if (hmap.containsKey(prefixSum - k)) {
-                count += hmap.get(prefixSum - k);
+
+            prefixSum = prefixSum + num;
+            diff = prefixSum - k;
+
+
+            if(hmap.containsKey(diff)) {
+                count = hmap.get(diff) + count;
             }
 
-            // Update the frequency of the prefix sum
             hmap.put(prefixSum, hmap.getOrDefault(prefixSum, 0) + 1);
         }
 
-        return count; 
+        return count;
     }
 }
