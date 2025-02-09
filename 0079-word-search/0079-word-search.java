@@ -7,7 +7,7 @@ class Solution {
         // Step 1: Loop through the board to find the first letter match
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {
-                if (board[i][j] == word.charAt(0) && dfs(board, word, i, j, 0)) {
+                if (board[i][j] == word.charAt(0) && dfs(board, word, i, j, 0)) { //index at the end keeps track of index of the letter in the word
                     return true; // Word found
                 }
             }
