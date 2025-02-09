@@ -65,6 +65,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/abhichall/LeetcodeTracker/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/abhichall/LeetcodeTracker/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [1319-unique-number-of-occurrences](https://github.com/abhichall/LeetcodeTracker/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhichall/LeetcodeTracker/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -103,6 +104,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/abhichall/LeetcodeTracker/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/abhichall/LeetcodeTracker/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/abhichall/LeetcodeTracker/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/abhichall/LeetcodeTracker/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0792-binary-search) |
@@ -140,6 +142,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0217-contains-duplicate](https://github.com/abhichall/LeetcodeTracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhichall/LeetcodeTracker/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/abhichall/LeetcodeTracker/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -148,6 +151,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/abhichall/LeetcodeTracker/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 ## Bucket Sort
 |  |
@@ -157,6 +161,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/abhichall/LeetcodeTracker/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 ## Quickselect
 |  |
@@ -222,6 +227,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0011-container-with-most-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/abhichall/LeetcodeTracker/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/abhichall/LeetcodeTracker/tree/master/0605-can-place-flowers) |
+| [0621-task-scheduler](https://github.com/abhichall/LeetcodeTracker/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 ## Simulation
 |  |
