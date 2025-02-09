@@ -89,6 +89,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0036-valid-sudoku](https://github.com/abhichall/LeetcodeTracker/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhichall/LeetcodeTracker/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhichall/LeetcodeTracker/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhichall/LeetcodeTracker/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0074-search-a-2d-matrix) |
@@ -220,6 +221,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhichall/LeetcodeTracker/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
 ## Greedy
@@ -233,6 +235,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0054-spiral-matrix) |
 | [2058-concatenation-of-array](https://github.com/abhichall/LeetcodeTracker/tree/master/2058-concatenation-of-array) |
 ## Binary Search
 |  |
