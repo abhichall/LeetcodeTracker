@@ -29,6 +29,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhichall/LeetcodeTracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/abhichall/LeetcodeTracker/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/abhichall/LeetcodeTracker/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhichall/LeetcodeTracker/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhichall/LeetcodeTracker/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/abhichall/LeetcodeTracker/tree/master/0049-group-anagrams) |
@@ -312,4 +313,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0207-course-schedule](https://github.com/abhichall/LeetcodeTracker/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0210-course-schedule-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhichall/LeetcodeTracker/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
