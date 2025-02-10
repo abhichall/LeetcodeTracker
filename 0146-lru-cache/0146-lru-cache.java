@@ -1,6 +1,5 @@
-public class LRUCache {
-    
-    // Node class for Doubly Linked List
+
+class LRUCache {
     private class Node {
         int key, value;
         Node prev, next;
@@ -12,62 +11,71 @@ public class LRUCache {
     }
 
     private int capacity;
-    private HashMap<Integer, Node> map;
+    private Map<Integer, Node> cache;
     private Node head, tail;
 
-    // Constructor to initialize cache with a given capacity
     public LRUCache(int capacity) {
         this.capacity = capacity;
-        this.map = new HashMap<>();
-
-        head = new Node(0, 0); // Dummy head
-        tail = new Node(0, 0); // Dummy tail
+        this.cache = new HashMap<>();
         
+        // Dummy head and tail to simplify operations
+        head = new Node(0, 0);
+        tail = new Node(0, 0);
         head.next = tail;
         tail.prev = head;
     }
 
-    // Get method to retrieve the value corresponding to the key
-    public int get(int key) {
-        if (!map.containsKey(key)) return -1;
-
-        Node node = map.get(key);
-        remove(node);
-        addToHead(node);
-        return node.value;
+    // Helper function to add node next to head
+    private void addNode(Node node) {
+        node.next = head.next;
+        node.prev = head;
+        head.next.prev = node;
+        head.next = node;
     }
 
-    // Put method to insert or update a key-value pair in the cache
-    public void put(int key, int value) {
-        if (map.containsKey(key)) {
-            Node node = map.get(key);
-            node.value = value;
-            remove(node);
-            addToHead(node);
-        } else {
-            Node newNode = new Node(key, value);
-            map.put(key, newNode);
-            addToHead(newNode);
-
-            if (map.size() > capacity) {
-                Node tailPrev = tail.prev;
-                remove(tailPrev);
-                map.remove(tailPrev.key);
-            }
-        }
-    }
-
-    // Helper method to remove a node from the doubly linked list
-    private void remove(Node node) {
+    // Helper function to remove a node from the list
+    private void removeNode(Node node) {
         node.prev.next = node.next;
         node.next.prev = node.prev;
     }
 
-    // Helper method to add a node right after the dummy head
-    private void addToHead(Node node) {
-        node.next = head.next;
-        head.next.prev = node;
-        head.next = node;
-        node.prev = head;
+    // Move accessed node to front (most recently used)
+    private void moveToHead(Node node) {
+        removeNode(node);
+        addNode(node);
+    }
+
+    // Remove least recently used node
+    private Node removeTail() {
+        Node lru = tail.prev;
+        removeNode(lru);
+        return lru;
+    }
+
+    public int get(int key) {
+        if (!cache.containsKey(key)) return -1;
+
+        Node node = cache.get(key);
+        moveToHead(node); // Recently used, move to front
+        return node.value;
+    }
+
+    public void put(int key, int value) {
+        if (cache.containsKey(key)) {
+            // Update existing node
+            Node node = cache.get(key);
+            node.value = value;
+            moveToHead(node);
+        } else {
+            // Insert new node
+            Node newNode = new Node(key, value);
+            cache.put(key, newNode);
+            addNode(newNode);
+
+            if (cache.size() > capacity) {
+                Node lru = removeTail();
+                cache.remove(lru.key);
+            }
+        }
     }
 }
