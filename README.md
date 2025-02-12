@@ -72,6 +72,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1319-unique-number-of-occurrences](https://github.com/abhichall/LeetcodeTracker/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhichall/LeetcodeTracker/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/abhichall/LeetcodeTracker/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,6 +129,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/abhichall/LeetcodeTracker/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/abhichall/LeetcodeTracker/tree/master/2058-concatenation-of-array) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/abhichall/LeetcodeTracker/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -180,6 +182,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/abhichall/LeetcodeTracker/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/abhichall/LeetcodeTracker/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -349,4 +352,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhichall/LeetcodeTracker/tree/master/0239-sliding-window-maximum) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/abhichall/LeetcodeTracker/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
