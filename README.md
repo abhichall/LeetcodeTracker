@@ -299,6 +299,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0102-binary-tree-level-order-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -311,6 +312,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0145-binary-tree-postorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/abhichall/LeetcodeTracker/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -321,6 +323,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0102-binary-tree-level-order-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -370,4 +373,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
