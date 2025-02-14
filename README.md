@@ -121,6 +121,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0792-binary-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/abhichall/LeetcodeTracker/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/abhichall/LeetcodeTracker/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhichall/LeetcodeTracker/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -148,6 +149,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0023-merge-k-sorted-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0621-task-scheduler](https://github.com/abhichall/LeetcodeTracker/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -172,6 +175,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/abhichall/LeetcodeTracker/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
+| [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -188,6 +192,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +200,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0009-palindrome-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhichall/LeetcodeTracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0202-happy-number) |
+| [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/abhichall/LeetcodeTracker/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Stack
 |  |
@@ -356,4 +362,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/abhichall/LeetcodeTracker/tree/master/3594-identify-the-largest-outlier-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
