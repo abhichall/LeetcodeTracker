@@ -1,8 +1,6 @@
-# LeetcodeTracker
-Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-
 <!---LeetCode Topics Start-->
-# LeetCode Topics
+# LeetCode Topics - Broken Down by Problem Types
+
 ## Two Pointers
 |  |
 | ------- |
