@@ -1,6 +1,5 @@
 <!---LeetCode Topics Start-->
-# LeetCode Topics - Broken Down by Problem Types
-
+# LeetCode Topics
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +60,7 @@
 | [0217-contains-duplicate](https://github.com/abhichall/LeetcodeTracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhichall/LeetcodeTracker/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhichall/LeetcodeTracker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhichall/LeetcodeTracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/abhichall/LeetcodeTracker/tree/master/0560-subarray-sum-equals-k) |
@@ -110,6 +110,7 @@
 | [0239-sliding-window-maximum](https://github.com/abhichall/LeetcodeTracker/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/abhichall/LeetcodeTracker/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhichall/LeetcodeTracker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/abhichall/LeetcodeTracker/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/abhichall/LeetcodeTracker/tree/master/0605-can-place-flowers) |
@@ -198,6 +199,7 @@
 | [0009-palindrome-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhichall/LeetcodeTracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhichall/LeetcodeTracker/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/abhichall/LeetcodeTracker/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Stack
@@ -218,6 +220,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhichall/LeetcodeTracker/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhichall/LeetcodeTracker/tree/master/0380-insert-delete-getrandom-o1) |
 ## Backtracking
 |  |
 | ------- |
@@ -375,4 +378,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/abhichall/LeetcodeTracker/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
