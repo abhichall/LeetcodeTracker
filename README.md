@@ -228,6 +228,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhichall/LeetcodeTracker/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0079-word-search) |
+| [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -319,6 +320,7 @@
 | [0210-course-schedule-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0543-diameter-of-binary-tree) |
+| [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
@@ -339,6 +341,7 @@
 | [0127-word-ladder](https://github.com/abhichall/LeetcodeTracker/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/abhichall/LeetcodeTracker/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0210-course-schedule-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
 ## Doubly-Linked List
 |  |
@@ -353,6 +356,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/abhichall/LeetcodeTracker/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0210-course-schedule-ii) |
+| [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
 | ------- |
