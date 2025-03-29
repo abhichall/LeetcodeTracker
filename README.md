@@ -53,6 +53,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhichall/LeetcodeTracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/abhichall/LeetcodeTracker/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/abhichall/LeetcodeTracker/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/abhichall/LeetcodeTracker/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/abhichall/LeetcodeTracker/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0128-longest-consecutive-sequence) |
@@ -99,6 +100,7 @@
 | [0054-spiral-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhichall/LeetcodeTracker/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhichall/LeetcodeTracker/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/abhichall/LeetcodeTracker/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0088-merge-sorted-array) |
@@ -263,6 +265,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhichall/LeetcodeTracker/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/abhichall/LeetcodeTracker/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0079-word-search) |
 | [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
