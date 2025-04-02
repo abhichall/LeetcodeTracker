@@ -1,47 +1,80 @@
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
 
-        //this will keep track - allow for ez search + access
-        //initialize this w pre populating the hashset with the word list
+        //for O(1) lookup - hashset
         Set<String> wordSet = new HashSet<>(wordList);
 
+        //to keep track of what we already checked 
+         Set<String> visited = new HashSet<>();
+        
+        //edge cases
         if(!wordSet.contains(endWord)) return 0;
 
-        //queue for bfs
+        //initialize bfs
         Queue<String> q = new LinkedList<>();
-        q.add(beginWord);
-        int count = 1;
+        q.offer(beginWord);
+        visited.add(beginWord);
 
-        //pretty much bfs to check everything
-       while (!q.isEmpty()) {
-            int levelSize = q.size(); // Number of words at the current BFS level
+        int changes = 1;
 
-            for (int i = 0; i < levelSize; i++) {
-                String currWord = q.poll();
-                if (currWord.equals(endWord)) return count;
+        //bfs
+        while(!q.isEmpty()) {
+            
+            int size = q.size(); //keep level by lever
 
-                // Try all possible one-letter transformations
-                char[] wordArr = currWord.toCharArray();
-                for (int j = 0; j < wordArr.length; j++) {
-                    char origChar = wordArr[j];
+            for(int i = 0; i < size; i++) { //iterate through each word in given level
 
-                    for (char c = 'a'; c <= 'z'; c++) {
-                        if (wordArr[j] == c) continue; // Skip same letter replacement
+                    String curr = q.poll();
 
-                        wordArr[j] = c;
-                        String newWord = new String(wordArr);
+                    //change each char
+                    for(int j = 0; j < curr.length(); j++) {
+                        char[] word = curr.toCharArray();
 
-                        // If the new word exists in the dictionary, add to queue
-                        if (wordSet.contains(newWord)) {
-                            q.add(newWord);
-                            wordSet.remove(newWord); // Mark as visited
+                        for( char c = 'a'; c <= 'z'; c++) {
+
+                        //change being made                            
+                        word[j] = c;
+
+                        //need to check if its same now so
+                        String postChange = new String(word);
+
+                        //if it is now the end word, we finished it
+                        if(postChange.equals(endWord)) {
+                            return changes + 1;
                         }
-                    }
-                    wordArr[j] = origChar; // Restore original letter
+
+                        //if its not, then we have to account for it being visitied and move on
+                        if(wordSet.contains(postChange) && !visited.contains(postChange)) {
+                            q.offer(postChange);
+                            visited.add(postChange);
+                        }
+
                 }
-            }
-            count++; // Increase level count after processing current level
         }
-        return 0; // No valid transformation sequence found
+                
+           
+            }
+                 changes++;
+            
+
+        }
+       
+        return 0;
+        
     }
 }
+
+ // wordList - contains a dictionary of sorts that has words that we have
+        //have to find the shortest number of transformatinons from begin to endword
+        //return 0 if not possible
+
+        //edge case - is it possible for wordlist to just be empty, or any of them
+            //check if endword is in wordlist - return 0 if not
+            //check if begin word is same as end word -return 1
+
+        // bfs approach - goes to neighbor or next one at a time
+            //can treat words as the nodes and transformations as edges
+                //bfs will look at all possible transformations one by one
+
+            //to implement bfs - use queue, storing words + number of transformations
+                    //keep track of visied nodes
