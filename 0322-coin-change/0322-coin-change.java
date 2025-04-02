@@ -1,31 +1,39 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
+      
+        //edge cases
+        if (amount == 0) return 0;
+        if (amount < 0) return -1;
+
+        //arr to store minimum coins for each value until amount
+        int[] arr = new int[amount + 1];
+
+        //min amount needed to make 0
+        arr[0] = 0;
+
         
-        //max amount -- 10 cents -- minimum that 10 cent
-            // 0 1 2 3 
-        
-        //initialize an array to hold values - represent I up till amount 
-        // [0] = 0 -- [i] = min(dpi[i], min([i - coin] + 1))
+        //iterate through minCombos
+        for(int i = 1; i <= amount; i++) {
 
-        if(amount == 0) return 0;
+            //initialize to max index 
+            arr[i] = amount + 1;
 
-        int[] dp = new int[amount + 1];
+            //try each coin/denomination
+            for(int coin: coins) {
+                if(coin <= i) {
 
-        for (int i = 1; i <= amount; i++) {
-            dp[i] = amount + 1;
-        }
-        dp[0] = 0;
-
-
-        for(int coin: coins) {
-            for(int i = coin; i <= amount; i++) {
-                dp[i] = Math.min(dp[i], dp[i-coin] + 1);
+                    //update the value to minimum
+                    arr[i] = Math.min(arr[i], arr[i - coin] + 1);
+                }
             }
         }
-        if (dp[amount] > amount) {
+
+        //arr[amount]
+        if (arr[amount] > amount) {
             return -1;
         } else {
-            return dp[amount];
+            return arr[amount];
         }
+
     }
 }
