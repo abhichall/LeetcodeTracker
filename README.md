@@ -458,4 +458,8 @@
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhichall/LeetcodeTracker/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Database
+|  |
+| ------- |
+| [0614-second-degree-follower](https://github.com/abhichall/LeetcodeTracker/tree/master/0614-second-degree-follower) |
 <!---LeetCode Topics End-->
