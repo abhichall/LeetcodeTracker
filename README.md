@@ -48,6 +48,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/abhichall/LeetcodeTracker/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhichall/LeetcodeTracker/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/abhichall/LeetcodeTracker/tree/master/1894-merge-strings-alternately) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/abhichall/LeetcodeTracker/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/abhichall/LeetcodeTracker/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Hash Table
 |  |
@@ -362,6 +363,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0783-search-in-a-binary-search-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/abhichall/LeetcodeTracker/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -378,6 +380,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0543-diameter-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/abhichall/LeetcodeTracker/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
 | ------- |
@@ -392,6 +395,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0783-search-in-a-binary-search-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/abhichall/LeetcodeTracker/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
