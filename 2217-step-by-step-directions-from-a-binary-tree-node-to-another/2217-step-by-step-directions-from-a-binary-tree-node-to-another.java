@@ -15,23 +15,24 @@
  */
 class Solution {
     public String getDirections(TreeNode root, int startValue, int destValue) {
-        // Paths from ROOT to each target (sequence of 'L'/'R')
         StringBuilder pathToStart = new StringBuilder();
         StringBuilder pathToDest  = new StringBuilder();
 
-        // DFS builds path by backtracking; returns true when found
         getPath(root, startValue, pathToStart);
         getPath(root, destValue,  pathToDest);
 
         String s = pathToStart.toString();
         String d = pathToDest.toString();
 
-        // Find length of common prefix (path to LCA)
-        int i = 0, m = s.length(), n = d.length();
+        // Find lelngth of common prefix (path to LCA)
+        int i = 0;
+        int m = s.length();
+        int n = d.length();
+
         while (i < m && i < n && s.charAt(i) == d.charAt(i)) i++;
 
-        // Steps: up from start to LCA, then down along dest suffix
         StringBuilder ans = new StringBuilder();
+
         for (int k = i; k < m; k++) ans.append('U');   // go up from start to LCA
         ans.append(d.substring(i));                    // then follow L/R down to dest
         return ans.toString();
