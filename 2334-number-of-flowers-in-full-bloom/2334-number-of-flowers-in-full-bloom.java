@@ -1,68 +1,32 @@
 
 class Solution {
     public int[] fullBloomFlowers(int[][] flowers, int[] people) {
+        TreeMap<Integer, Integer> map = new TreeMap<>();
 
-        // Step 1 - get and create arrays for start and end times
-        int n = flowers.length;
-        int[] start = new int[n];
-        int[] end = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            start[i] = flowers[i][0]; // when flower starts blooming
-            end[i] = flowers[i][1];   // when flower ends blooming
+        // Step 1: Build the event map
+        for (int[] f : flowers) {
+            map.put(f[0], map.getOrDefault(f[0], 0) + 1);     // start bloom
+            map.put(f[1] + 1, map.getOrDefault(f[1] + 1, 0) - 1); // end bloom (exclusive)
         }
 
-        // Step 2 - sort the two arrays
-        Arrays.sort(start);
-        Arrays.sort(end);
+        // Step 2: Convert changes into prefix sums
+        int curr = 0;
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            curr += entry.getValue();
+            entry.setValue(curr);  // now map stores "flowers in bloom at this time"
+        }
 
-        // Step 3 - iterate through people array and find answer
-        int[] results = new int[people.length];
+        // Step 3: Answer queries
+        int[] result = new int[people.length];
         for (int i = 0; i < people.length; i++) {
-            int time = people[i];
-
-            // # of flowers that started blooming by time
-            int begin = upperBound(start, time);
-
-            // # of flowers that already ended before time
-            int finish = lowerBound(end, time);
-
-            results[i] = begin - finish;
+            Map.Entry<Integer, Integer> e = map.floorEntry(people[i]);
+            result[i] = (e == null) ? 0 : e.getValue();
         }
 
-        return results;
-    }
-
-    // upperBound: index of first element > target
-    // => count of elements <= target
-    private int upperBound(int[] arr, int target) {
-        int left = 0, right = arr.length;
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (arr[mid] <= target) {
-                left = mid + 1; // move right
-            } else {
-                right = mid; // mid might be the first greater
-            }
-        }
-        return left;
-    }
-
-    // lowerBound: index of first element >= target
-    // => count of elements < target
-    private int lowerBound(int[] arr, int target) {
-        int left = 0, right = arr.length;
-        while (left < right) {
-            int mid = left + (right - left) / 2;
-            if (arr[mid] < target) {
-                left = mid + 1; // move right
-            } else {
-                right = mid; // mid might be >= target
-            }
-        }
-        return left;
+        return result;
     }
 }
+
 /**
 
         input - 2d array - a beginning time for flowers in full bloomb, and then an ending time for flowers in full bloom
