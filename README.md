@@ -142,6 +142,7 @@
 | [0322-coin-change](https://github.com/abhichall/LeetcodeTracker/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/abhichall/LeetcodeTracker/tree/master/0348-design-tic-tac-toe) |
+| [0362-design-hit-counter](https://github.com/abhichall/LeetcodeTracker/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhichall/LeetcodeTracker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/abhichall/LeetcodeTracker/tree/master/0560-subarray-sum-equals-k) |
@@ -278,6 +279,7 @@
 | [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhichall/LeetcodeTracker/tree/master/0155-min-stack) |
 | [0348-design-tic-tac-toe](https://github.com/abhichall/LeetcodeTracker/tree/master/0348-design-tic-tac-toe) |
+| [0362-design-hit-counter](https://github.com/abhichall/LeetcodeTracker/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhichall/LeetcodeTracker/tree/master/0380-insert-delete-getrandom-o1) |
 | [1176-design-a-leaderboard](https://github.com/abhichall/LeetcodeTracker/tree/master/1176-design-a-leaderboard) |
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
@@ -345,6 +347,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhichall/LeetcodeTracker/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhichall/LeetcodeTracker/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0362-design-hit-counter](https://github.com/abhichall/LeetcodeTracker/tree/master/0362-design-hit-counter) |
 | [0611-valid-triangle-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhichall/LeetcodeTracker/tree/master/0907-koko-eating-bananas) |
@@ -464,6 +467,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhichall/LeetcodeTracker/tree/master/0239-sliding-window-maximum) |
+| [0362-design-hit-counter](https://github.com/abhichall/LeetcodeTracker/tree/master/0362-design-hit-counter) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhichall/LeetcodeTracker/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -504,4 +508,8 @@
 |  |
 | ------- |
 | [0614-second-degree-follower](https://github.com/abhichall/LeetcodeTracker/tree/master/0614-second-degree-follower) |
+## Data Stream
+|  |
+| ------- |
+| [0362-design-hit-counter](https://github.com/abhichall/LeetcodeTracker/tree/master/0362-design-hit-counter) |
 <!---LeetCode Topics End-->
