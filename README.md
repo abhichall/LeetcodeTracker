@@ -91,6 +91,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/abhichall/LeetcodeTracker/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhichall/LeetcodeTracker/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/abhichall/LeetcodeTracker/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/abhichall/LeetcodeTracker/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abhichall/LeetcodeTracker/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/abhichall/LeetcodeTracker/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -173,6 +174,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1603-running-sum-of-1d-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/abhichall/LeetcodeTracker/tree/master/1833-find-the-highest-altitude) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/abhichall/LeetcodeTracker/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2058-concatenation-of-array](https://github.com/abhichall/LeetcodeTracker/tree/master/2058-concatenation-of-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/abhichall/LeetcodeTracker/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhichall/LeetcodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -294,6 +296,7 @@
 | [1023-time-based-key-value-store](https://github.com/abhichall/LeetcodeTracker/tree/master/1023-time-based-key-value-store) |
 | [1176-design-a-leaderboard](https://github.com/abhichall/LeetcodeTracker/tree/master/1176-design-a-leaderboard) |
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/abhichall/LeetcodeTracker/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Backtracking
 |  |
 | ------- |
