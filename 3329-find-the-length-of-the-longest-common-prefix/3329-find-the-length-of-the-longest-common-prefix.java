@@ -33,7 +33,7 @@ class Solution {
 
                 if (prefix.contains(y)) { //means this is a valid prefix
 
-                    if (length > max) max = length;
+                    max = Math.max(max, length);
 
                 }
                 y /= 10;
