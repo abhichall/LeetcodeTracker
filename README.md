@@ -160,6 +160,7 @@
 | [1095-two-city-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1095-two-city-scheduling) |
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/abhichall/LeetcodeTracker/tree/master/1319-unique-number-of-occurrences) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhichall/LeetcodeTracker/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abhichall/LeetcodeTracker/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhichall/LeetcodeTracker/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -184,6 +185,7 @@
 | [0213-house-robber-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/abhichall/LeetcodeTracker/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0392-is-subsequence) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1488-sort-integers-by-the-power-value](https://github.com/abhichall/LeetcodeTracker/tree/master/1488-sort-integers-by-the-power-value) |
 ## Divide and Conquer
 |  |
@@ -213,6 +215,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 | [1095-two-city-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1095-two-city-scheduling) |
 | [1176-design-a-leaderboard](https://github.com/abhichall/LeetcodeTracker/tree/master/1176-design-a-leaderboard) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1488-sort-integers-by-the-power-value](https://github.com/abhichall/LeetcodeTracker/tree/master/1488-sort-integers-by-the-power-value) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abhichall/LeetcodeTracker/tree/master/2334-number-of-flowers-in-full-bloom) |
@@ -352,6 +355,7 @@
 | [0792-binary-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/abhichall/LeetcodeTracker/tree/master/0907-koko-eating-bananas) |
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abhichall/LeetcodeTracker/tree/master/2334-number-of-flowers-in-full-bloom) |
 ## Linked List
 |  |
