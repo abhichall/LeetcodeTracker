@@ -34,6 +34,7 @@
 | [0020-valid-parentheses](https://github.com/abhichall/LeetcodeTracker/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhichall/LeetcodeTracker/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/abhichall/LeetcodeTracker/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/abhichall/LeetcodeTracker/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abhichall/LeetcodeTracker/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/abhichall/LeetcodeTracker/tree/master/0127-word-ladder) |
@@ -121,6 +122,7 @@
 | [0054-spiral-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhichall/LeetcodeTracker/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/abhichall/LeetcodeTracker/tree/master/0056-merge-intervals) |
+| [0068-text-justification](https://github.com/abhichall/LeetcodeTracker/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/abhichall/LeetcodeTracker/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0079-word-search) |
@@ -341,6 +343,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/abhichall/LeetcodeTracker/tree/master/0068-text-justification) |
 | [0348-design-tic-tac-toe](https://github.com/abhichall/LeetcodeTracker/tree/master/0348-design-tic-tac-toe) |
 | [2058-concatenation-of-array](https://github.com/abhichall/LeetcodeTracker/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhichall/LeetcodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
