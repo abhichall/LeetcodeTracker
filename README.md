@@ -296,6 +296,7 @@
 | [0348-design-tic-tac-toe](https://github.com/abhichall/LeetcodeTracker/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/abhichall/LeetcodeTracker/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhichall/LeetcodeTracker/tree/master/0380-insert-delete-getrandom-o1) |
+| [0969-number-of-recent-calls](https://github.com/abhichall/LeetcodeTracker/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/abhichall/LeetcodeTracker/tree/master/1023-time-based-key-value-store) |
 | [1176-design-a-leaderboard](https://github.com/abhichall/LeetcodeTracker/tree/master/1176-design-a-leaderboard) |
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
@@ -489,6 +490,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhichall/LeetcodeTracker/tree/master/0239-sliding-window-maximum) |
 | [0362-design-hit-counter](https://github.com/abhichall/LeetcodeTracker/tree/master/0362-design-hit-counter) |
+| [0969-number-of-recent-calls](https://github.com/abhichall/LeetcodeTracker/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhichall/LeetcodeTracker/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -534,4 +536,5 @@
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/abhichall/LeetcodeTracker/tree/master/0362-design-hit-counter) |
+| [0969-number-of-recent-calls](https://github.com/abhichall/LeetcodeTracker/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
