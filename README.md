@@ -21,6 +21,7 @@
 | [0392-is-subsequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0611-valid-triangle-number) |
+| [0875-longest-mountain-in-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0875-longest-mountain-in-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/abhichall/LeetcodeTracker/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhichall/LeetcodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -160,6 +161,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/abhichall/LeetcodeTracker/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0792-binary-search) |
+| [0875-longest-mountain-in-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0875-longest-mountain-in-array) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/abhichall/LeetcodeTracker/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
@@ -194,6 +196,7 @@
 | [0213-house-robber-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/abhichall/LeetcodeTracker/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0392-is-subsequence) |
+| [0875-longest-mountain-in-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0875-longest-mountain-in-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1488-sort-integers-by-the-power-value](https://github.com/abhichall/LeetcodeTracker/tree/master/1488-sort-integers-by-the-power-value) |
 ## Divide and Conquer
@@ -495,6 +498,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0875-longest-mountain-in-array) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/abhichall/LeetcodeTracker/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Geometry
 |  |
