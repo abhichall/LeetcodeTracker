@@ -302,6 +302,7 @@
 | [1176-design-a-leaderboard](https://github.com/abhichall/LeetcodeTracker/tree/master/1176-design-a-leaderboard) |
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhichall/LeetcodeTracker/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2357-count-integers-in-intervals](https://github.com/abhichall/LeetcodeTracker/tree/master/2357-count-integers-in-intervals) |
 ## Backtracking
 |  |
 | ------- |
@@ -531,6 +532,7 @@
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhichall/LeetcodeTracker/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abhichall/LeetcodeTracker/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2357-count-integers-in-intervals](https://github.com/abhichall/LeetcodeTracker/tree/master/2357-count-integers-in-intervals) |
 ## Database
 |  |
 | ------- |
@@ -540,4 +542,8 @@
 | ------- |
 | [0362-design-hit-counter](https://github.com/abhichall/LeetcodeTracker/tree/master/0362-design-hit-counter) |
 | [0969-number-of-recent-calls](https://github.com/abhichall/LeetcodeTracker/tree/master/0969-number-of-recent-calls) |
+## Segment Tree
+|  |
+| ------- |
+| [2357-count-integers-in-intervals](https://github.com/abhichall/LeetcodeTracker/tree/master/2357-count-integers-in-intervals) |
 <!---LeetCode Topics End-->
