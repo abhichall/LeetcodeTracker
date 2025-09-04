@@ -171,6 +171,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/abhichall/LeetcodeTracker/tree/master/1319-unique-number-of-occurrences) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/abhichall/LeetcodeTracker/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhichall/LeetcodeTracker/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/abhichall/LeetcodeTracker/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhichall/LeetcodeTracker/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1603-running-sum-of-1d-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1603-running-sum-of-1d-array) |
@@ -336,6 +337,7 @@
 | [0079-word-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0079-word-search) |
 | [0348-design-tic-tac-toe](https://github.com/abhichall/LeetcodeTracker/tree/master/0348-design-tic-tac-toe) |
 | [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhichall/LeetcodeTracker/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Greedy
 |  |
 | ------- |
@@ -460,6 +462,7 @@
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
+| [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhichall/LeetcodeTracker/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Doubly-Linked List
 |  |
 | ------- |
