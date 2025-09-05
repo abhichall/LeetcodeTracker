@@ -165,6 +165,7 @@
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/abhichall/LeetcodeTracker/tree/master/0907-koko-eating-bananas) |
 | [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
+| [1022-unique-paths-iii](https://github.com/abhichall/LeetcodeTracker/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
 | [1095-two-city-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1095-two-city-scheduling) |
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
@@ -309,6 +310,7 @@
 | [0022-generate-parentheses](https://github.com/abhichall/LeetcodeTracker/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0079-word-search) |
 | [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
+| [1022-unique-paths-iii](https://github.com/abhichall/LeetcodeTracker/tree/master/1022-unique-paths-iii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [0074-search-a-2d-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0079-word-search) |
 | [0348-design-tic-tac-toe](https://github.com/abhichall/LeetcodeTracker/tree/master/0348-design-tic-tac-toe) |
+| [1022-unique-paths-iii](https://github.com/abhichall/LeetcodeTracker/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhichall/LeetcodeTracker/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Greedy
@@ -527,6 +530,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0136-single-number) |
+| [1022-unique-paths-iii](https://github.com/abhichall/LeetcodeTracker/tree/master/1022-unique-paths-iii) |
 ## Ordered Set
 |  |
 | ------- |
