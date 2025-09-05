@@ -1,45 +1,46 @@
 class HitCounter {
 
-    //its a fixed side of ds that we need so should be o1
+    //initialize window size
+    int window = 300;
 
-    int[] times;
-    int[] hits;
+    //arrrays to hold time and hits
+    int[] times = new int[300];
+    int[] hits = new int[300];
 
     public HitCounter() {
-        times = new int[300];
-        hits = new int[300];
+
+        this.times = new int[window];
+        this.hits = new int[window];
     }
     
     public void hit(int timestamp) {
 
-        //map timestamp to index in array - last 5 min only
+        //find the index of this timestamp
         int index = timestamp % 300;
 
-        //check for outdated info
+        //is this given timestamp a new value, or is it already there
         if(times[index] != timestamp) {
-            times[index] = timestamp;       //set to current timestamp and then at related add hit count++
-            hits[index] = 1; 
+            times[index] = timestamp;
+            hits[index] = 1;
         } else {
-            hits[index]++;
+            hits[index]++; //the timestamp is within range, so we just iterate the hit value
         }
-
-
-        
     }
     
     public int getHits(int timestamp) {
-        
-        int total = 0;
 
-        for(int i = 0; i < 300; i++) {
+        //return the number of hits WITHIN the past 5 minutes
 
-            if(timestamp - times[i] < 300) {
-                total = total + hits[i];
+        int total = 0; //to store the total as we iterate
+
+        for(int i = 0; i < window; i++) {
+            
+            if (timestamp - times[i] < window) {
+                 total += hits[i];
             }
         }
-
         return total;
-
+        
     }
 }
 
@@ -52,9 +53,30 @@ class HitCounter {
 
  /**
  
- make two arrays of size 300 -- one to trackt timestamp for an index and other to track hit amount at same index (300 represents last 5 minutes)
- use modolus to get index/duplicate values and use it to update in timestamp metric
  
+ DS that counts number of hits received in the past 300 seconds
+ calls are made chronologically -- POSSIBLE for multiple hits to be at the same time
 
+we only care about that last 300 seconds
+
+    4 ...... 300 301 302 303
+
+only care about the first 5 seconds
+    [1 2 3 4 5 6]
+if we use an array, only carin about the first 300 seconds
+
+    1 % 300 -- first index of the array
+    2 % 300 -- second index of the array
+    300%300 -- 0 nindex
+    301 % 300 - 1 have a new value/reference-
+
+    create 2 arrays
+        times - at index i = time of hit
+        hits - at time i, the val stored in array will be the # of hits 
+
+        [1 2 3 4 5]
+    `   [1 3 4 5 6] 
+ 
+ 
  
   */
