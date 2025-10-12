@@ -39,6 +39,7 @@
 | [0079-word-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/abhichall/LeetcodeTracker/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/abhichall/LeetcodeTracker/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/abhichall/LeetcodeTracker/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/abhichall/LeetcodeTracker/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0344-reverse-string) |
@@ -70,6 +71,7 @@
 | [0127-word-ladder](https://github.com/abhichall/LeetcodeTracker/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/abhichall/LeetcodeTracker/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/abhichall/LeetcodeTracker/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/abhichall/LeetcodeTracker/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0202-happy-number) |
@@ -137,6 +139,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/abhichall/LeetcodeTracker/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhichall/LeetcodeTracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhichall/LeetcodeTracker/tree/master/0162-find-peak-element) |
@@ -195,6 +198,7 @@
 | [0055-jump-game](https://github.com/abhichall/LeetcodeTracker/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhichall/LeetcodeTracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/abhichall/LeetcodeTracker/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/abhichall/LeetcodeTracker/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/abhichall/LeetcodeTracker/tree/master/0322-coin-change) |
@@ -496,6 +500,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhichall/LeetcodeTracker/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/abhichall/LeetcodeTracker/tree/master/0139-word-break) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhichall/LeetcodeTracker/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Queue
 |  |
@@ -530,6 +535,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/abhichall/LeetcodeTracker/tree/master/0139-word-break) |
 | [1488-sort-integers-by-the-power-value](https://github.com/abhichall/LeetcodeTracker/tree/master/1488-sort-integers-by-the-power-value) |
 ## Bit Manipulation
 |  |
