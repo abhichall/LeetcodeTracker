@@ -1,88 +1,94 @@
+class Solution {
 
-public class Solution {
-  public int[] findOrder(int numCourses, int[][] prerequisites) {
-        // Define the findOrder method with numCourses and prerequisites as parameters
+    /*
 
-        List<List<Integer>> graph = new ArrayList<>();
-        // Create an adjacency list to represent the course dependency graph
+    pair[0,1] -- means first 1 and then 0 -- or else not possible
 
-        for (int i = 0; i < numCourses; i++) {
-            // Loop over each course to initialize the graph
-            graph.add(new ArrayList<>());
-            // Add an empty list for each course
+    relationships
+
+    1 - 0
+    2 - 0
+    3 - 1, 2
+
+    Adjacency list
+    [a, b] -> b -> a
+
+    find the number of courses that are required for a specific course - order of nec
+
+    courses with. 0 reqs take first, and then go on from there
+
+    adj list built - calculated in-degree (how many are needed) (in degree represents how many prereqs for each)
+
+    add everything with a indegree 0 -- queue -- add to result & decrease by 1 the indegree of the neighbors 
+        if any neighbor then has 0 indegree, than add to result
+
+    Kahn's Algorithm
+
+    */
+    public int[] findOrder(int numCourses, int[][] prerequisites) {
+
+        //base case
+        if(numCourses <= 0) return new int[0];
+
+        //make the adjacency list representations of graph
+        List<Integer>[] graph = new ArrayList[numCourses]; // populates with amount
+
+        //iterate through # of course
+        for(int i = 0; i < numCourses; i++) {
+            graph[i] = new ArrayList<>(); //populate with array list to edit later
         }
-        // End of for loop to initialize graph
 
+        //calculate the indegree for each course -- hold it in array
         int[] indegree = new int[numCourses];
-        // Create an array to store the number of prerequisites (indegree) for each course
 
-        for (int[] pre : prerequisites) {
-            // Iterate over each prerequisite pair
-            int course = pre[0];
-            // The course that depends on the prerequisite
-            int prerequisite = pre[1];
-            // The prerequisite course that must be taken first
+        //build graph WITH the indegree 
+        for(int[] p : prerequisites) {
 
-            graph.get(prerequisite).add(course);
-            // Add an edge from the prerequisite to the course
-            indegree[course]++;
-            // Increment the indegree for the course
-        }
-        // End of for loop for prerequisites
+            //p[0] -- is course ; p[1] is the prerequisite -- p[1] -> p[0]
+            int course = p[0];
+            int preReq = p[1];
 
-        Queue<Integer> queue = new LinkedList<>();
-        // Initialize a queue to perform a BFS for the topological sort
+            //add to the adj list
+            graph[preReq].add(course);
+            indegree[course]++; //leeps track of how many pre req needed
 
-        for (int i = 0; i < numCourses; i++) {
-            // Loop over all courses to find those with no prerequisites
-            if (indegree[i] == 0) {
-                // If the course has no prerequisites
-                queue.offer(i);
-                // Add the course to the BFS queue
-            }
-            // End of if condition
-        }
-        // End of for loop to populate initial queue
+        }   //at this point, entire adj list, and indegree array populated
 
-        int[] order = new int[numCourses];
-        // Create an array to store the valid ordering of courses
+        //queue to find order
+        Deque<Integer> q = new ArrayDeque<>();
+        for(int i = 0; i < numCourses; i++) {
+            if(indegree[i] == 0) q.offer(i);
+        } //end of this have eveyrhitng that has NO prerequisites before it
+
+        int[] resultOrder = new int[numCourses];
         int index = 0;
-        // Initialize an index variable for the order array
 
-        while (!queue.isEmpty()) {
-            // Continue processing while there are courses in the queue
-            int curr = queue.poll();
-            // Remove a course from the front of the queue
-            order[index++] = curr;
-            // Add the removed course to the order array and increment the index
+        //process bfs
+        while(!q.isEmpty()) {
 
-            for (int neighbor : graph.get(curr)) {
-                // Iterate over all courses that depend on the current course
+            int curr = q.poll();
+            resultOrder[index++] = curr;
+
+            //decrease the indegree of neighbors
+            for(int neighbor : graph[curr]) {
                 indegree[neighbor]--;
-                // Decrement the indegree of the dependent course since one prerequisite is now satisfied
 
-                if (indegree[neighbor] == 0) {
-                    // If the dependent course has no remaining prerequisites
-                    queue.offer(neighbor);
-                    // Add it to the queue to be processed next
+                //check if no more preqs for that neighbor
+                if(indegree[neighbor] == 0) {
+                    q.offer(neighbor);
                 }
-                // End of if condition for neighbor
             }
-            // End of for loop for processing all neighbors
         }
-        // End of while loop for BFS traversal
 
-        if (index == numCourses) {
-            // If all courses have been processed
-            return order;
-            // Return the computed valid order of courses
+        //by this point, have all courses in order
+        //double chcek
+        if(index == numCourses) {
+            return resultOrder;
         } else {
-            // If not all courses were processed, a cycle must exist
-            return new int[0];
-            // Return an empty array indicating it's impossible to complete all courses
+            return new int[]{};
         }
-        // End of conditional check
+
+
+        
     }
-    // End of findOrder method
 }
-// End of Solution class
