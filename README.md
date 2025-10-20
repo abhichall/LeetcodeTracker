@@ -51,6 +51,7 @@
 | [0567-permutation-in-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/abhichall/LeetcodeTracker/tree/master/1023-time-based-key-value-store) |
+| [1125-design-file-system](https://github.com/abhichall/LeetcodeTracker/tree/master/1125-design-file-system) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/abhichall/LeetcodeTracker/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhichall/LeetcodeTracker/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/abhichall/LeetcodeTracker/tree/master/1894-merge-strings-alternately) |
@@ -91,6 +92,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/abhichall/LeetcodeTracker/tree/master/1023-time-based-key-value-store) |
+| [1125-design-file-system](https://github.com/abhichall/LeetcodeTracker/tree/master/1125-design-file-system) |
 | [1176-design-a-leaderboard](https://github.com/abhichall/LeetcodeTracker/tree/master/1176-design-a-leaderboard) |
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/abhichall/LeetcodeTracker/tree/master/1319-unique-number-of-occurrences) |
@@ -311,6 +313,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/abhichall/LeetcodeTracker/tree/master/0380-insert-delete-getrandom-o1) |
 | [0969-number-of-recent-calls](https://github.com/abhichall/LeetcodeTracker/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/abhichall/LeetcodeTracker/tree/master/1023-time-based-key-value-store) |
+| [1125-design-file-system](https://github.com/abhichall/LeetcodeTracker/tree/master/1125-design-file-system) |
 | [1176-design-a-leaderboard](https://github.com/abhichall/LeetcodeTracker/tree/master/1176-design-a-leaderboard) |
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/abhichall/LeetcodeTracker/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -509,6 +512,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhichall/LeetcodeTracker/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/abhichall/LeetcodeTracker/tree/master/0139-word-break) |
+| [1125-design-file-system](https://github.com/abhichall/LeetcodeTracker/tree/master/1125-design-file-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhichall/LeetcodeTracker/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Queue
 |  |
