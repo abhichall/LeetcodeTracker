@@ -179,6 +179,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/abhichall/LeetcodeTracker/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
+| [1072-next-greater-node-in-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/1072-next-greater-node-in-linked-list) |
 | [1095-two-city-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1095-two-city-scheduling) |
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
 | [1319-unique-number-of-occurrences](https://github.com/abhichall/LeetcodeTracker/tree/master/1319-unique-number-of-occurrences) |
@@ -305,6 +306,7 @@
 | [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhichall/LeetcodeTracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
+| [1072-next-greater-node-in-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/1072-next-greater-node-in-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -336,6 +338,7 @@
 | [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/abhichall/LeetcodeTracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
+| [1072-next-greater-node-in-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/1072-next-greater-node-in-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -414,6 +417,7 @@
 | [0206-reverse-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/1072-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
