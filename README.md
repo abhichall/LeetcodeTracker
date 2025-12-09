@@ -69,6 +69,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhichall/LeetcodeTracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/abhichall/LeetcodeTracker/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/abhichall/LeetcodeTracker/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/abhichall/LeetcodeTracker/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/abhichall/LeetcodeTracker/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/abhichall/LeetcodeTracker/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/abhichall/LeetcodeTracker/tree/master/0073-set-matrix-zeroes) |
@@ -132,6 +133,7 @@
 | [0027-remove-element](https://github.com/abhichall/LeetcodeTracker/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/abhichall/LeetcodeTracker/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/abhichall/LeetcodeTracker/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/abhichall/LeetcodeTracker/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/abhichall/LeetcodeTracker/tree/master/0049-group-anagrams) |
@@ -332,6 +334,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhichall/LeetcodeTracker/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/abhichall/LeetcodeTracker/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0079-word-search) |
 | [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/abhichall/LeetcodeTracker/tree/master/1022-unique-paths-iii) |
@@ -359,6 +362,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/abhichall/LeetcodeTracker/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/abhichall/LeetcodeTracker/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhichall/LeetcodeTracker/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0074-search-a-2d-matrix) |
