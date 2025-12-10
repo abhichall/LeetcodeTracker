@@ -1,33 +1,64 @@
 class Solution {
-public static int[] maxSlidingWindow(int[] nums, int k) {
-        if (nums == null || nums.length == 0) {
+    public int[] maxSlidingWindow(int[] nums, int k) {
+        
+        //edge case
+        if ( nums == null || nums.length == 0 || k <= 0) {
             return new int[0];
         }
 
         int n = nums.length;
-        int[] result = new int[n - k + 1]; // Array to store max values
-        Deque<Integer> dq = new ArrayDeque<>(); // Stores indices in decreasing order
+
+        int numWindows = n - k + 1;
+        int[] result = new int[numWindows];
+
+        //deque to store
+        Deque<Integer> d = new ArrayDeque<>();
+
+        int currIndex = 0;
 
         for (int i = 0; i < n; i++) {
-            // Remove elements out of the current window
-            if (!dq.isEmpty() && dq.peekFirst() < i - k + 1) {
-                dq.pollFirst();
+
+            //remove values less than the curren element (since they can never be max in window)
+            while(!d.isEmpty() && nums[d.peekLast()] < nums[i]) {
+                d.removeLast();
             }
 
-            // Remove elements from the back if they are smaller than the current element
-            while (!dq.isEmpty() && nums[dq.peekLast()] < nums[i]) {
-                dq.pollLast();
+            //add current
+            d.addLast(i); //will be the lowest
+
+            //iff length exceeds window, out
+            if(!d.isEmpty() && d.peekFirst() <= i - k) {
+                d.removeFirst();
             }
 
-            // Add current element index
-            dq.offerLast(i);
-
-            // Append max of the window to result (only after the first k-1 elements are processed)
+            //been thru window size
             if (i >= k - 1) {
-                result[i - k + 1] = nums[dq.peekFirst()];
+                result[currIndex++] = nums[d.peekFirst()]; 
             }
         }
-        
         return result;
     }
 }
+
+
+
+/* 
+
+given array of nums
+some window size k
+starts at very left 
+    move by one to the right
+
+return the max sliding window (what this means)
+    what is max sliding window? just an array with a max from each window
+
+iterate through each wihtin the window -- too much time
+
+use with o1 add time - deque (store the index of elements)
+    front of deque holds index of current window max
+
+iterate through the array only once
+    every new element, we can pop the smaller elemnts from the tail of the deque, push the current index, and pop the head
+
+
+*/
