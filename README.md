@@ -136,6 +136,7 @@
 | [0037-sudoku-solver](https://github.com/abhichall/LeetcodeTracker/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/abhichall/LeetcodeTracker/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/abhichall/LeetcodeTracker/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/abhichall/LeetcodeTracker/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/abhichall/LeetcodeTracker/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/abhichall/LeetcodeTracker/tree/master/0055-jump-game) |
@@ -335,6 +336,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhichall/LeetcodeTracker/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/abhichall/LeetcodeTracker/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/abhichall/LeetcodeTracker/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0079-word-search) |
 | [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
 | [1022-unique-paths-iii](https://github.com/abhichall/LeetcodeTracker/tree/master/1022-unique-paths-iii) |
