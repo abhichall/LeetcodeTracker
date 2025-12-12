@@ -24,6 +24,7 @@
 | [0567-permutation-in-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0611-valid-triangle-number) |
 | [0875-longest-mountain-in-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0875-longest-mountain-in-array) |
+| [1048-longest-string-chain](https://github.com/abhichall/LeetcodeTracker/tree/master/1048-longest-string-chain) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/abhichall/LeetcodeTracker/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhichall/LeetcodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -54,6 +55,7 @@
 | [0567-permutation-in-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/abhichall/LeetcodeTracker/tree/master/1023-time-based-key-value-store) |
+| [1048-longest-string-chain](https://github.com/abhichall/LeetcodeTracker/tree/master/1048-longest-string-chain) |
 | [1125-design-file-system](https://github.com/abhichall/LeetcodeTracker/tree/master/1125-design-file-system) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/abhichall/LeetcodeTracker/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/abhichall/LeetcodeTracker/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -97,6 +99,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/abhichall/LeetcodeTracker/tree/master/1023-time-based-key-value-store) |
+| [1048-longest-string-chain](https://github.com/abhichall/LeetcodeTracker/tree/master/1048-longest-string-chain) |
 | [1125-design-file-system](https://github.com/abhichall/LeetcodeTracker/tree/master/1125-design-file-system) |
 | [1176-design-a-leaderboard](https://github.com/abhichall/LeetcodeTracker/tree/master/1176-design-a-leaderboard) |
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
@@ -185,6 +188,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/abhichall/LeetcodeTracker/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
+| [1048-longest-string-chain](https://github.com/abhichall/LeetcodeTracker/tree/master/1048-longest-string-chain) |
 | [1072-next-greater-node-in-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/1072-next-greater-node-in-linked-list) |
 | [1095-two-city-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1095-two-city-scheduling) |
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
@@ -221,6 +225,7 @@
 | [0322-coin-change](https://github.com/abhichall/LeetcodeTracker/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0392-is-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0875-longest-mountain-in-array) |
+| [1048-longest-string-chain](https://github.com/abhichall/LeetcodeTracker/tree/master/1048-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1488-sort-integers-by-the-power-value](https://github.com/abhichall/LeetcodeTracker/tree/master/1488-sort-integers-by-the-power-value) |
 ## Divide and Conquer
@@ -250,6 +255,7 @@
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
+| [1048-longest-string-chain](https://github.com/abhichall/LeetcodeTracker/tree/master/1048-longest-string-chain) |
 | [1095-two-city-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1095-two-city-scheduling) |
 | [1176-design-a-leaderboard](https://github.com/abhichall/LeetcodeTracker/tree/master/1176-design-a-leaderboard) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1352-maximum-profit-in-job-scheduling) |
