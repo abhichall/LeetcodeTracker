@@ -202,6 +202,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/abhichall/LeetcodeTracker/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhichall/LeetcodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abhichall/LeetcodeTracker/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/abhichall/LeetcodeTracker/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhichall/LeetcodeTracker/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/abhichall/LeetcodeTracker/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Dynamic Programming
@@ -386,6 +387,7 @@
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [1095-two-city-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1095-two-city-scheduling) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/abhichall/LeetcodeTracker/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/abhichall/LeetcodeTracker/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Simulation
 |  |
 | ------- |
