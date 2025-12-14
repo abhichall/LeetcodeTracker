@@ -525,6 +525,7 @@
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
 | [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
+| [1197-minimum-knight-moves](https://github.com/abhichall/LeetcodeTracker/tree/master/1197-minimum-knight-moves) |
 | [1414-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhichall/LeetcodeTracker/tree/master/1414-shortest-path-in-a-grid-with-obstacles-elimination) |
 ## Doubly-Linked List
 |  |
