@@ -224,6 +224,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhichall/LeetcodeTracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abhichall/LeetcodeTracker/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhichall/LeetcodeTracker/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/abhichall/LeetcodeTracker/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/abhichall/LeetcodeTracker/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0213-house-robber-ii) |
@@ -461,6 +462,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhichall/LeetcodeTracker/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -479,6 +481,7 @@
 | [0101-symmetric-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhichall/LeetcodeTracker/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/abhichall/LeetcodeTracker/tree/master/0207-course-schedule) |
@@ -502,6 +505,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhichall/LeetcodeTracker/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
