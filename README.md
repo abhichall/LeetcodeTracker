@@ -84,6 +84,7 @@
 | [0139-word-break](https://github.com/abhichall/LeetcodeTracker/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/abhichall/LeetcodeTracker/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/abhichall/LeetcodeTracker/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/abhichall/LeetcodeTracker/tree/master/0217-contains-duplicate) |
@@ -159,6 +160,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/abhichall/LeetcodeTracker/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/abhichall/LeetcodeTracker/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhichall/LeetcodeTracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/abhichall/LeetcodeTracker/tree/master/0162-find-peak-element) |
@@ -309,6 +311,7 @@
 | [0002-add-two-numbers](https://github.com/abhichall/LeetcodeTracker/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhichall/LeetcodeTracker/tree/master/0013-roman-to-integer) |
+| [0149-max-points-on-a-line](https://github.com/abhichall/LeetcodeTracker/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhichall/LeetcodeTracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/abhichall/LeetcodeTracker/tree/master/0279-perfect-squares) |
@@ -589,6 +592,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/abhichall/LeetcodeTracker/tree/master/0149-max-points-on-a-line) |
 | [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search Tree
 |  |
