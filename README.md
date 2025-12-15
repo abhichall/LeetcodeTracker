@@ -230,6 +230,7 @@
 | [0198-house-robber](https://github.com/abhichall/LeetcodeTracker/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/abhichall/LeetcodeTracker/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/abhichall/LeetcodeTracker/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/abhichall/LeetcodeTracker/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0392-is-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0875-longest-mountain-in-array) |
@@ -310,6 +311,7 @@
 | [0013-roman-to-integer](https://github.com/abhichall/LeetcodeTracker/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhichall/LeetcodeTracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0202-happy-number) |
+| [0279-perfect-squares](https://github.com/abhichall/LeetcodeTracker/tree/master/0279-perfect-squares) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhichall/LeetcodeTracker/tree/master/0380-insert-delete-getrandom-o1) |
 | [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/abhichall/LeetcodeTracker/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -529,6 +531,7 @@
 | [0207-course-schedule](https://github.com/abhichall/LeetcodeTracker/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/abhichall/LeetcodeTracker/tree/master/0269-alien-dictionary) |
+| [0279-perfect-squares](https://github.com/abhichall/LeetcodeTracker/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/abhichall/LeetcodeTracker/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/abhichall/LeetcodeTracker/tree/master/0617-merge-two-binary-trees) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0743-closest-leaf-in-a-binary-tree) |
