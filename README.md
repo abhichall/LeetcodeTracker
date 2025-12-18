@@ -175,6 +175,7 @@
 | [0269-alien-dictionary](https://github.com/abhichall/LeetcodeTracker/tree/master/0269-alien-dictionary) |
 | [0283-move-zeroes](https://github.com/abhichall/LeetcodeTracker/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/abhichall/LeetcodeTracker/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
 | [0348-design-tic-tac-toe](https://github.com/abhichall/LeetcodeTracker/tree/master/0348-design-tic-tac-toe) |
 | [0349-intersection-of-two-arrays](https://github.com/abhichall/LeetcodeTracker/tree/master/0349-intersection-of-two-arrays) |
@@ -234,6 +235,7 @@
 | [0221-maximal-square](https://github.com/abhichall/LeetcodeTracker/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/abhichall/LeetcodeTracker/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/abhichall/LeetcodeTracker/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0392-is-subsequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0392-is-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0875-longest-mountain-in-array) |
 | [1048-longest-string-chain](https://github.com/abhichall/LeetcodeTracker/tree/master/1048-longest-string-chain) |
@@ -391,6 +393,7 @@
 | [0074-search-a-2d-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/abhichall/LeetcodeTracker/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/abhichall/LeetcodeTracker/tree/master/0348-design-tic-tac-toe) |
 | [1022-unique-paths-iii](https://github.com/abhichall/LeetcodeTracker/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/abhichall/LeetcodeTracker/tree/master/1036-rotting-oranges) |
@@ -497,6 +500,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0269-alien-dictionary](https://github.com/abhichall/LeetcodeTracker/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhichall/LeetcodeTracker/tree/master/0617-merge-two-binary-trees) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0743-closest-leaf-in-a-binary-tree) |
@@ -536,6 +540,7 @@
 | [0269-alien-dictionary](https://github.com/abhichall/LeetcodeTracker/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/abhichall/LeetcodeTracker/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/abhichall/LeetcodeTracker/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/abhichall/LeetcodeTracker/tree/master/0617-merge-two-binary-trees) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
@@ -557,6 +562,7 @@
 | [0207-course-schedule](https://github.com/abhichall/LeetcodeTracker/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/abhichall/LeetcodeTracker/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
@@ -564,6 +570,7 @@
 | [0207-course-schedule](https://github.com/abhichall/LeetcodeTracker/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/abhichall/LeetcodeTracker/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Trie
 |  |
 | ------- |
@@ -607,6 +614,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/abhichall/LeetcodeTracker/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1488-sort-integers-by-the-power-value](https://github.com/abhichall/LeetcodeTracker/tree/master/1488-sort-integers-by-the-power-value) |
 ## Bit Manipulation
 |  |
