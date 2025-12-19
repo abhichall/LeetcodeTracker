@@ -188,6 +188,7 @@
 | [0621-task-scheduler](https://github.com/abhichall/LeetcodeTracker/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/abhichall/LeetcodeTracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhichall/LeetcodeTracker/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/abhichall/LeetcodeTracker/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/abhichall/LeetcodeTracker/tree/master/0875-longest-mountain-in-array) |
@@ -334,6 +335,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhichall/LeetcodeTracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/abhichall/LeetcodeTracker/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/abhichall/LeetcodeTracker/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/abhichall/LeetcodeTracker/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/abhichall/LeetcodeTracker/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
 | [1072-next-greater-node-in-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/1072-next-greater-node-in-linked-list) |
@@ -418,6 +420,7 @@
 | [0054-spiral-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/abhichall/LeetcodeTracker/tree/master/0068-text-justification) |
 | [0348-design-tic-tac-toe](https://github.com/abhichall/LeetcodeTracker/tree/master/0348-design-tic-tac-toe) |
+| [0735-asteroid-collision](https://github.com/abhichall/LeetcodeTracker/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/abhichall/LeetcodeTracker/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhichall/LeetcodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
