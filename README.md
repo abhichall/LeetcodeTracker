@@ -28,6 +28,7 @@
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/abhichall/LeetcodeTracker/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhichall/LeetcodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abhichall/LeetcodeTracker/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/abhichall/LeetcodeTracker/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abhichall/LeetcodeTracker/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/abhichall/LeetcodeTracker/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abhichall/LeetcodeTracker/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhichall/LeetcodeTracker/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/abhichall/LeetcodeTracker/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Sliding Window
@@ -216,6 +218,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/abhichall/LeetcodeTracker/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abhichall/LeetcodeTracker/tree/master/2334-number-of-flowers-in-full-bloom) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/abhichall/LeetcodeTracker/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abhichall/LeetcodeTracker/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhichall/LeetcodeTracker/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/abhichall/LeetcodeTracker/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Dynamic Programming
@@ -242,6 +245,7 @@
 | [1048-longest-string-chain](https://github.com/abhichall/LeetcodeTracker/tree/master/1048-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1488-sort-integers-by-the-power-value](https://github.com/abhichall/LeetcodeTracker/tree/master/1488-sort-integers-by-the-power-value) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abhichall/LeetcodeTracker/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,6 +280,7 @@
 | [1488-sort-integers-by-the-power-value](https://github.com/abhichall/LeetcodeTracker/tree/master/1488-sort-integers-by-the-power-value) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/abhichall/LeetcodeTracker/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abhichall/LeetcodeTracker/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abhichall/LeetcodeTracker/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -301,6 +306,7 @@
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/abhichall/LeetcodeTracker/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/abhichall/LeetcodeTracker/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abhichall/LeetcodeTracker/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3594-identify-the-largest-outlier-in-an-array](https://github.com/abhichall/LeetcodeTracker/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Quickselect
 |  |
@@ -441,6 +447,7 @@
 | [1249-snapshot-array](https://github.com/abhichall/LeetcodeTracker/tree/master/1249-snapshot-array) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/abhichall/LeetcodeTracker/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [2334-number-of-flowers-in-full-bloom](https://github.com/abhichall/LeetcodeTracker/tree/master/2334-number-of-flowers-in-full-bloom) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/abhichall/LeetcodeTracker/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Linked List
 |  |
 | ------- |
