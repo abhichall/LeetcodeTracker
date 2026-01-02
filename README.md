@@ -656,4 +656,5 @@
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/abhichall/LeetcodeTracker/tree/master/1114-print-in-order) |
+| [1115-print-foobar-alternately](https://github.com/abhichall/LeetcodeTracker/tree/master/1115-print-foobar-alternately) |
 <!---LeetCode Topics End-->
