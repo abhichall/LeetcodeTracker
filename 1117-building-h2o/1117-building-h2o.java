@@ -1,49 +1,31 @@
 class H2O {
-    private Semaphore hydrogen = new Semaphore(2);
-    private Semaphore oxygen = new Semaphore(1);
+    private Semaphore hydrogenSem = new Semaphore(2);
+    private Semaphore oxygenSem = new Semaphore(1);
     private CyclicBarrier barrier = new CyclicBarrier(3, () -> {
-        hydrogen.release(2);
-        oxygen.release(1);
+        // Reset semaphores after forming one water molecule
+        hydrogenSem.release(2);
+        oxygenSem.release(1);
     });
 
-
-    public H2O() {
-        
-    }
+    public H2O() {}
 
     public void hydrogen(Runnable releaseHydrogen) throws InterruptedException {
-        hydrogen.acquire();
-
-        // releaseHydrogen.run() outputs "H". Do not change or remove this line.
-        releaseHydrogen.run();
-        try{
-        barrier.await();
-        } catch (BrokenBarrierException e) {
-            throw new RuntimeException(e);
+        hydrogenSem.acquire();
+        try {
+            releaseHydrogen.run(); // outputs "H"
+            barrier.await(); // wait for 2H + 1O
+        } catch (Exception e) {
+            Thread.currentThread().interrupt();
         }
     }
 
     public void oxygen(Runnable releaseOxygen) throws InterruptedException {
-        oxygen.acquire();
-        
-        // releaseOxygen.run() outputs "O". Do not change or remove this line.
-		releaseOxygen.run();
-        
+        oxygenSem.acquire();
         try {
-            barrier.await();
-        } catch (BrokenBarrierException e) {
-            throw new RuntimeException(e);
+            releaseOxygen.run(); // outputs "O"
+            barrier.await(); // wait for 2H + 1O
+        } catch (Exception e) {
+            Thread.currentThread().interrupt();
         }
     }
 }
-
-/**
-
-two threads -- we cant continue unless we have all of the molecules together 
-    Two Semaphores
-        for oxyegn -- 0
-        for hydrogen -- 2
-    Cyclic Barrier 
-
-
- */
