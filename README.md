@@ -50,6 +50,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/abhichall/LeetcodeTracker/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/abhichall/LeetcodeTracker/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/abhichall/LeetcodeTracker/tree/master/0392-is-subsequence) |
@@ -354,6 +355,7 @@
 | [0146-lru-cache](https://github.com/abhichall/LeetcodeTracker/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/abhichall/LeetcodeTracker/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0348-design-tic-tac-toe](https://github.com/abhichall/LeetcodeTracker/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/abhichall/LeetcodeTracker/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhichall/LeetcodeTracker/tree/master/0380-insert-delete-getrandom-o1) |
@@ -492,6 +494,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhichall/LeetcodeTracker/tree/master/0617-merge-two-binary-trees) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0743-closest-leaf-in-a-binary-tree) |
@@ -514,6 +517,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0269-alien-dictionary](https://github.com/abhichall/LeetcodeTracker/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhichall/LeetcodeTracker/tree/master/0617-merge-two-binary-trees) |
@@ -537,6 +541,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/abhichall/LeetcodeTracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhichall/LeetcodeTracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhichall/LeetcodeTracker/tree/master/0617-merge-two-binary-trees) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0743-closest-leaf-in-a-binary-tree) |
@@ -554,6 +559,7 @@
 | [0210-course-schedule-ii](https://github.com/abhichall/LeetcodeTracker/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/abhichall/LeetcodeTracker/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/abhichall/LeetcodeTracker/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/abhichall/LeetcodeTracker/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/abhichall/LeetcodeTracker/tree/master/0617-merge-two-binary-trees) |
