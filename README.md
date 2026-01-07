@@ -56,6 +56,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/abhichall/LeetcodeTracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0567-permutation-in-string) |
+| [0642-design-search-autocomplete-system](https://github.com/abhichall/LeetcodeTracker/tree/master/0642-design-search-autocomplete-system) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [1023-time-based-key-value-store](https://github.com/abhichall/LeetcodeTracker/tree/master/1023-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/abhichall/LeetcodeTracker/tree/master/1048-longest-string-chain) |
@@ -270,6 +271,7 @@
 | [0611-valid-triangle-number](https://github.com/abhichall/LeetcodeTracker/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/abhichall/LeetcodeTracker/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0642-design-search-autocomplete-system](https://github.com/abhichall/LeetcodeTracker/tree/master/0642-design-search-autocomplete-system) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/abhichall/LeetcodeTracker/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
@@ -290,6 +292,7 @@
 | [0347-top-k-frequent-elements](https://github.com/abhichall/LeetcodeTracker/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/abhichall/LeetcodeTracker/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/abhichall/LeetcodeTracker/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0642-design-search-autocomplete-system](https://github.com/abhichall/LeetcodeTracker/tree/master/0642-design-search-autocomplete-system) |
 | [0778-reorganize-string](https://github.com/abhichall/LeetcodeTracker/tree/master/0778-reorganize-string) |
 | [1014-k-closest-points-to-origin](https://github.com/abhichall/LeetcodeTracker/tree/master/1014-k-closest-points-to-origin) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/abhichall/LeetcodeTracker/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -354,6 +357,7 @@
 | [0348-design-tic-tac-toe](https://github.com/abhichall/LeetcodeTracker/tree/master/0348-design-tic-tac-toe) |
 | [0362-design-hit-counter](https://github.com/abhichall/LeetcodeTracker/tree/master/0362-design-hit-counter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/abhichall/LeetcodeTracker/tree/master/0380-insert-delete-getrandom-o1) |
+| [0642-design-search-autocomplete-system](https://github.com/abhichall/LeetcodeTracker/tree/master/0642-design-search-autocomplete-system) |
 | [0969-number-of-recent-calls](https://github.com/abhichall/LeetcodeTracker/tree/master/0969-number-of-recent-calls) |
 | [1023-time-based-key-value-store](https://github.com/abhichall/LeetcodeTracker/tree/master/1023-time-based-key-value-store) |
 | [1125-design-file-system](https://github.com/abhichall/LeetcodeTracker/tree/master/1125-design-file-system) |
@@ -513,6 +517,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhichall/LeetcodeTracker/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/abhichall/LeetcodeTracker/tree/master/0617-merge-two-binary-trees) |
+| [0642-design-search-autocomplete-system](https://github.com/abhichall/LeetcodeTracker/tree/master/0642-design-search-autocomplete-system) |
 | [0743-closest-leaf-in-a-binary-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0743-closest-leaf-in-a-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/abhichall/LeetcodeTracker/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0813-all-paths-from-source-to-target](https://github.com/abhichall/LeetcodeTracker/tree/master/0813-all-paths-from-source-to-target) |
@@ -587,6 +592,7 @@
 | [0014-longest-common-prefix](https://github.com/abhichall/LeetcodeTracker/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/abhichall/LeetcodeTracker/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhichall/LeetcodeTracker/tree/master/0208-implement-trie-prefix-tree) |
+| [0642-design-search-autocomplete-system](https://github.com/abhichall/LeetcodeTracker/tree/master/0642-design-search-autocomplete-system) |
 | [1125-design-file-system](https://github.com/abhichall/LeetcodeTracker/tree/master/1125-design-file-system) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/abhichall/LeetcodeTracker/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Queue
@@ -646,6 +652,7 @@
 |  |
 | ------- |
 | [0362-design-hit-counter](https://github.com/abhichall/LeetcodeTracker/tree/master/0362-design-hit-counter) |
+| [0642-design-search-autocomplete-system](https://github.com/abhichall/LeetcodeTracker/tree/master/0642-design-search-autocomplete-system) |
 | [0969-number-of-recent-calls](https://github.com/abhichall/LeetcodeTracker/tree/master/0969-number-of-recent-calls) |
 | [2161-stock-price-fluctuation](https://github.com/abhichall/LeetcodeTracker/tree/master/2161-stock-price-fluctuation) |
 ## Segment Tree
